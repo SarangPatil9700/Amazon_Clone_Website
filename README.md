@@ -15,7 +15,7 @@ A sleek, responsive frontend replica of the Amazon website's homepage, built usi
 
 ## 📌 Tech Stack
 - HTML5 - Structuring the webpage content
-- CSS3* - Styling and layout
+- CSS3 - Styling and layout
 
 ## 🎨 Preview
 ### Home Page
