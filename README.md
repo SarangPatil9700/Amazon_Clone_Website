@@ -2,6 +2,10 @@
 
 A sleek, responsive frontend replica of the Amazon website's homepage, built using **HTML5 & CSS3**. This project focuses on providing a visually accurate and responsive design, ensuring a seamless user experience across devices.
 
+<img src="https://github.com/SarangPatil9700/Amazon_Clone_Website/blob/main/screenshots/Screenshot%20(33).png" alt="Homepage" height="500" width="1500">
+<img src="https://github.com/SarangPatil9700/Amazon_Clone_Website/blob/main/screenshots/Screenshot%20(34).png" alt="Homepage" height="500" width="1500">
+<img src="https://github.com/SarangPatil9700/Amazon_Clone_Website/blob/main/screenshots/Screenshot%20(35).png" alt="Footer" height="500" width="1500">
+
 ## 🚀 Features
 - Fully Responsive Design 📱💻🖥️
 - Intuitive Navigation Bar with dropdowns and search functionality 🔍
